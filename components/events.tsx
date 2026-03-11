@@ -9,7 +9,7 @@ const upcomingEvents = [
   {
     id: 1,
     title: "CASIF 2025",
-    date: "November 20, 2025",
+    date: "March 31, 2026",
     location: "Maker Village, Kochi",
     description:
       "A premier industry forum bringing together innovators, researchers, and professionals. Theme: AI-driven Innovations and Emerging Trends in the Semiconductor Industry.",
@@ -19,7 +19,7 @@ const upcomingEvents = [
   {
     id: 2,
     title: "Technical Talks on RISC-V & Neuromorphic Hardware",
-    date: "November 20, 2025",
+    date: "April 6, 2026",
     location: "Maker Village, Kochi",
     description:
       "Expert sessions on VEGA: Building an Open-Source RISC-V Processor Ecosystem in India by Ms. Neetha Maria Celine (C-DAC) and Next-Generation Neuromorphic Hardware by Dr. Sherin A. Thomas.",
@@ -29,7 +29,7 @@ const upcomingEvents = [
   {
     id: 3,
     title: "Panel Discussion: AI in Semiconductor Industry",
-    date: "November 20, 2025",
+    date: "April 24, 2026",
     location: "Maker Village, Kochi",
     description:
       "Panel on AI-driven Innovations and Emerging Trends featuring experts from ISRO, Bosch, DUK, and C-DAC. Moderated by Dr. Ramkumar S from Sahrdaya College.",
@@ -42,7 +42,7 @@ const pastEvents = [
   {
     id: 4,
     title: "Analog IC Design Challenge",
-    date: "September 20, 2025",
+    date: "September 24, 2025",
     location: "NIT Calicut",
     description:
       "An initiative to explore the world of circuits where precision meets creativity. Teams battled design problems for a 3K prize pool.",
