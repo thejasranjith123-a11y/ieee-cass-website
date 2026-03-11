@@ -1,0 +1,29 @@
+# IEEE CASS Kerala Chapter Website
+
+This project is a responsive website prototype for the IEEE Circuits and Systems Society (CASS) Kerala Chapter.
+This website prototype was built using Next.js and Tailwind CSS. 
+v0.dev was used as an AI-assisted prototyping tool to generate the initial UI structure, 
+after which the design and components were customized manually. 
+Version control was managed using Git and GitHub, and the site was deployed using Vercel.
+
+## Features
+- Hero landing section introducing IEEE CASS
+- About section explaining the society and chapter mission
+- Events section displaying upcoming and past events
+- Team section showing executive committee members
+- Contact section with form and social media icons
+- Fully responsive design for mobile and desktop
+
+## Tools and Frameworks Used
+- Next.js (React framework)
+- Tailwind CSS for styling
+- TypeScript
+- Git and GitHub for version control
+- Deployment using Vercel
+-v0.dev (AI-assisted UI prototyping)
+
+## Live Website
+https://ieee-kerala-cass.vercel.app
+
+## Repository
+https://github.com/thejasranjith123-a11y/ieee-cass-website.git
